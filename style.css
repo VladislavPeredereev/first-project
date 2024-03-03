@@ -1,0 +1,18 @@
+body {
+  background-color: rgba(0, 0, 0, 0.349);
+  margin: 0;
+  padding: 0;
+}
+
+.contener { 
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 255, 0.274);
+}
+
+.title {
+  font-size: 40px;
+  color:rgba(216, 7, 7, 0.562)
+
+}
